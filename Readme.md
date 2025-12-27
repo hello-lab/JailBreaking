@@ -1,12 +1,12 @@
 
-# NeuralNet
+# NeuralNet-Seminar
 
 ![Project Logo](workshop.png)
 
 ## Overview
-I was given the task to lead a group to give a presentation on Ethical AI.
+I was given the task to lead a group to conduct a seminar on Ethical AI.
 
-  Which was further subdivided in these topics.
+  Which was subdivided in these topics.
   
     Lectures (AI Company Problems)
       1. Biasing 
