@@ -1,8 +1,8 @@
 
-# NeuralNet-Seminar
+
 
 ![Project Logo](workshop.png)
-
+# NeuralNet- Seminar
 ## Overview
 I was given the task to lead a group to conduct a seminar on Ethical AI.
 
